@@ -22,6 +22,12 @@ conhecimento estruturado sobre Fundos Imobiliários (FIIs).
 ## 🔗 Acesso ao NotebookLM
 👉 **[Clique aqui para acessar o NotebookLM](https://notebooklm.google.com/notebook/c459650c-5fba-454c-87fa-892670130f8c?authuser=1)**
 
+⚠️ **Observação**  
+O acesso ao NotebookLM requer login com uma conta Google, pois trata-se
+de uma limitação da própria ferramenta. O notebook está compartilhado
+para visualização completa após o login.
+
+
 ---
 
 ## 🧠 Exemplos de perguntas respondidas pelo NotebookLM
